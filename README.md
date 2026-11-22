@@ -1,6 +1,6 @@
 👋 Hi, I'm Bindu Shree!
 
-🎓 Computer Science Student
+🎓 Artificial Intelligence and Machine Learning(AIML) Student
 
 💻 Passionate about Java Programming and Software Development.
 
